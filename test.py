@@ -1,5 +1,4 @@
-#Getting started with Pythonnnn
-#Add test line
+#Getting started with Python
 
 name = input("What is your name? ")
 print("Hi", name + "! Nice to meet you.")
