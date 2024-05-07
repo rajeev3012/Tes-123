@@ -7,9 +7,6 @@ pipeline{
             }
         }
         stage('Test'){
-            when{
-                branch 'feature2'
-            }
             steps{
                 echo 'Testing the project'
             }
